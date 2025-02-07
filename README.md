@@ -6,7 +6,7 @@ Ce repository contient des notebooks pour un projet de machine learning non supe
 
 📊 Données
 
-L'ensemble de données utilisé pour ce projet provient de : Brazilian E-Commerce Public Dataset by Olist.
+L'ensemble de données utilisé pour ce projet provient de "Brazilian E-Commerce Public Dataset by Olist" : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
 Il s’agit d’informations sur 100 000 commandes Olist passées de 2016 à 2018 au Brésil.
 
 
